@@ -11,7 +11,7 @@
       <div class="section-body">
          <div class="row">
             <div class="col-12 d-flex justify-content-between">
-               <h6 class="page-title text-dark mb-3">Branch</h6>
+               <h6 class="page-title text-dark mb-3">Branch1</h6>
                <nav aria-label="breadcrumb">
                   <ol class="breadcrumb p-0">
                      <li class="breadcrumb-item"><a href="#">Home</a></li>
